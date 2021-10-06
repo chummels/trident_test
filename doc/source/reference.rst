@@ -3,18 +3,6 @@
 API Reference
 =============
 
-Generating Rays
----------------
-
-.. autosummary::
-   :toctree: generated/
-   :nosignatures:
-
-   ~trident.spectrum_generator.SpectrumGenerator
-   ~trident.ray_generator.make_simple_ray
-   ~trident.ray_generator.make_compound_ray
-   ~trident.light_ray.LightRay
-
 Generating Spectra
 ------------------
 
@@ -28,6 +16,18 @@ Generating Spectra
    ~trident.lsf.LSF
    ~trident.line_database.Line
    ~trident.line_database.LineDatabase
+
+Generating Rays
+---------------
+
+.. autosummary::
+   :toctree: generated/
+   :nosignatures:
+
+   ~trident.spectrum_generator.SpectrumGenerator
+   ~trident.ray_generator.make_simple_ray
+   ~trident.ray_generator.make_compound_ray
+   ~trident.light_ray.LightRay
 
 Plotting Spectra
 ----------------

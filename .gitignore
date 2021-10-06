@@ -1,0 +1,15 @@
+syntax: glob
+*~
+*.pyc
+cloudy_ion_balance.h5
+trident.egg-info
+doc/build
+doc/source/generated
+build/*
+dist/*
+*.swp
+tests/.cache/*
+.cache/*
+.pytest_cache
+.coverage
+flake8.out

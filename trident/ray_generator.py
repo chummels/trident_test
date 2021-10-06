@@ -386,3 +386,9 @@ def _add_default_fields(ds, fields):
         fields.append(('gas', 'H_nuclei_density'))
 
     return fields
+
+def test2(s):
+    '''
+    testing testing 2!
+    '''
+    return s

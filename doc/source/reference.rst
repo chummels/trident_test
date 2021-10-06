@@ -18,7 +18,10 @@ Generating Spectra
    ~trident.line_database.LineDatabase
    ~trident.ray_generator.make_simple_ray
    ~trident.ray_generator.make_compound_ray
+   ~trident.ray_generator.make_simple_ray
+   ~trident.ray_generator.make_compound_ray
    ~trident.light_ray.LightRay
+   ~trident.ray_generator.test2
 
 Generating Rays
 ---------------
@@ -28,6 +31,7 @@ Generating Rays
    :nosignatures:
 
    ~trident.spectrum_generator.SpectrumGenerator
+   ~trident.roman.test1
 
 Plotting Spectra
 ----------------

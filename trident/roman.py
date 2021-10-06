@@ -109,3 +109,9 @@ def from_roman(s):
             result += integer
             index += len(numeral)
     return result
+
+def test1(s):
+    """
+    testing testing 1
+    """
+    return s

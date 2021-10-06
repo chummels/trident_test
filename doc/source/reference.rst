@@ -10,6 +10,7 @@ Generating Rays
    :toctree: generated/
    :nosignatures:
 
+   ~trident.spectrum_generator.SpectrumGenerator
    ~trident.ray_generator.make_simple_ray
    ~trident.ray_generator.make_compound_ray
    ~trident.light_ray.LightRay
